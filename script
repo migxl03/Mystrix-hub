@@ -1,0 +1,13 @@
+local validIds = {
+    [131623223084840] = true,
+    [86362492050446] = true,
+    [111917342868480] = true,
+    [123960881422056] = true,
+    [137629155365661] = true
+}
+
+if validIds[game.PlaceId] then
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/jpzbGtgyoZ/0"))()
+else
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/snLjfHJf2n/0"))()
+end
