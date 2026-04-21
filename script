@@ -9,5 +9,5 @@ local validIds = {
 if validIds[game.PlaceId] then
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/jpzbGtgyoZ/0"))()
 else
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/snLjfHJf2n/0"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/jH102rJ2tO/0"))()
 end
